@@ -1,18 +1,133 @@
-# 💫 About Me:
-### 👋 A bit about me<br><br>- 🔭 I'm currently working on AI-powered full-stack products — most recently a voice-first mock interview platform with a RAG pipeline for context-aware follow-up questions and automated scoring.<br>- 🌱 I'm currently learning system design fundamentals and how to take LLM-integrated apps (RAG, vector search, structured generation) from prototype to production-grade.<br>- 👯 I'm looking to collaborate on full-stack or backend-heavy projects that combine solid API/data design with practical AI features — interview prep tools, dev productivity apps, or real-time systems.<br>- 🤔 I'm looking for help with scaling backend architecture decisions and best practices around vector databases / embeddings in production.<br>- 💬 Ask me about Java/Spring Boot, REST API design, real-time apps with Socket.IO/WebSockets, or integrating LLMs (OpenAI, Gemini) into web products.<br>- ⚡ Fun fact: I once paired a machine learning model with a game engine UI — turns out predicting Titanic survival probabilities feels a lot more dramatic when it's rendered like a mini-game.
+<div align="center">
 
+<h1>👋 Hi, I'm <span style="color:#00A6FF;"><b>Shreyash Anand</b></span></h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JQTAuW8H) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyashanand1/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31338712) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandshreyash747@gmail.com) 
+### AI/ML Learner · Full-Stack Developer · Open-Source Builder · Product-Oriented Engineer
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=plastic&logo=sentry&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+and+local+AI+systems;Developing+full-stack+products;Learning+by+building+and+sharing" />
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer who enjoys turning ideas into useful software and learning by taking projects from an early experiment to a working product.
+
+* 🤖 Exploring **Artificial Intelligence, Machine Learning, and RAG systems**
+* 💻 Building **full-stack applications with practical user experiences**
+* 🧩 Interested in **backend systems, APIs, databases, and product engineering**
+* 🌐 Working with **real-time, offline-first, and self-hosted applications**
+* 🌱 Learning through **open source, experimentation, and hands-on projects**
+
+---
+
+## 🧠 Current Focus
+
+```text
+AI-powered applications and intelligent workflows
+        ↓
+RAG pipelines, vector search, and local inference
+        ↓
+Full-stack product development
+        ↓
+Real-time, offline-first, and self-hosted systems
+        ↓
+Building → Experimenting → Learning → Improving
+```
+
+---
+
+## ⚙️ Technology Stack
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,react,nextjs,nodejs,spring,tailwind,postgres,mongodb,git&perline=6" />
+</p>
+
+### Areas I'm Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-232323?style=for-the-badge&logo=openai&logoColor=00A6FF" />
+  <img src="https://img.shields.io/badge/RAG%20%26%20LLM%20Applications-232323?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Engineering-232323?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Open%20Source-232323?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects & Experiments
+
+I use projects to explore the connection between **AI, software engineering, real-world problems, and thoughtful product design**.
+
+### 🔬 AI & Intelligent Systems
+
+* Building AI-assisted tools for learning, productivity, finance, and interview preparation
+* Experimenting with **RAG, contextual responses, vector search, and local inference**
+* Exploring practical ways to integrate AI into applications instead of treating it as a separate feature
+
+### 🌐 Full-Stack & Product Development
+
+* Developing applications with **React, Next.js, Node.js, Java, and Spring**
+* Working on real-time platforms, educational tools, browser extensions, dashboards, and collaborative products
+* Exploring offline-first experiences, self-hosted software, and systems that can run close to the user
+
+---
+
+## 🌍 Open Source
+
+Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that others can use or improve.
+
+I’m especially interested in projects that make technology more approachable—whether they help beginners make their first contribution, provide useful learning resources, or turn complex ideas into practical tools. I try to contribute with code, documentation, project structure, and ideas that make a repository easier to understand and participate in.
+
+---
+
+## 🧩 Problem Solving & Learning
+
+I enjoy strengthening my fundamentals through problem solving, system design, machine learning experiments, and building applications from scratch. I learn best when theory is connected to something practical, so many of my projects begin as a way to understand a concept more deeply.
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Zero_Wing01">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Shreyash_Anand/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:anandshreyash747@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyashanand1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Zero_Wing01">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Shreyash_Anand/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning by building. Building to understand. Improving with every iteration.</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;Full-Stack+Developer;Open-Source+Builder;Building+Practical+Software" />
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ZeroElemental&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ZeroElemental&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZeroElemental&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
