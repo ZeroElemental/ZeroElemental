@@ -5,7 +5,7 @@
 ### AI/ML Learner · Full-Stack Developer · Open-Source Builder · Product-Oriented Engineer
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+and+local+inference;Creating+full-stack+products;Learning+by+building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+and+local+[...]" />
 </p>
 
 </div>
@@ -60,29 +60,15 @@ Building → Experimenting → Learning → Improving
 ---
 
 <details>
-<summary><strong>🚀 Projects & Experiments</strong></summary>
-
-<br>
+<summary><h2>🚀 Projects & Experiments</h2></summary>
 
 I use projects to explore the connection between **AI, software engineering, real-world problems, and thoughtful product design**.
-
-| Area | What I'm Building | Technologies & Focus |
-|---|---|---|
-| 🤖 **AI-Assisted Tools** | Applications that assist with learning, productivity, finance, interview preparation, and everyday decision-making. | Python, JavaScript, TypeScript, LLM APIs, prompt engineering |
-| 🧠 **RAG & Intelligent Systems** | Systems that retrieve relevant information before generating responses, making AI outputs more contextual and useful. | RAG pipelines, vector search, embeddings, local inference |
-| 🌐 **Full-Stack Applications** | Complete applications with practical user experiences, responsive interfaces, APIs, authentication, and persistent data. | React, Next.js, Node.js, Java, Spring, PostgreSQL, MongoDB |
-| ⚡ **Real-Time Platforms** | Applications that support live updates, collaboration, messaging, dashboards, and interactive user experiences. | WebSockets, APIs, databases, event-driven systems |
-| 🎓 **Educational Tools** | Tools designed to make learning more interactive through structured content, intelligent assistance, and progress tracking. | React, Next.js, backend APIs, databases, AI integrations |
-| 🧩 **Browser Extensions** | Extensions that add useful workflows and productivity features directly to the browser. | JavaScript, TypeScript, browser APIs |
-| 📊 **Dashboards & Data Products** | Interfaces that turn data into understandable metrics, visualizations, and actionable insights. | React, charts, APIs, PostgreSQL |
-| 📴 **Offline-First Applications** | Software that remains useful with limited connectivity and synchronizes data when a connection becomes available. | Local storage, IndexedDB, service workers, synchronization |
-| 🏠 **Self-Hosted Systems** | Applications designed to run close to the user, giving more control over data, deployment, and infrastructure. | Docker, APIs, local databases, backend services |
 
 ### 🔬 AI & Intelligent Systems
 
 * Building AI-assisted tools for learning, productivity, finance, and interview preparation
 * Experimenting with **RAG, contextual responses, vector search, and local inference**
-* Exploring practical ways to integrate AI into applications instead of treating AI as a separate feature
+* Exploring practical ways to integrate AI into applications instead of treating it as a separate feature
 
 ### 🌐 Full-Stack & Product Development
 
@@ -95,43 +81,20 @@ I use projects to explore the connection between **AI, software engineering, rea
 ---
 
 <details>
-<summary><strong>🌍 Open Source</strong></summary>
+<summary><h2>🌍 Open Source</h2></summary>
 
-<br>
+Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that other[...]
 
-Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that other developers can use.
-
-I’m especially interested in projects that make technology more approachable—whether they help beginners make their first contribution, provide useful learning resources, or turn complex ideas into practical tools.
-
-### What I Like About Open Source
-
-| Interest | Description |
-|---|---|
-| 📚 **Learning from Others** | Studying real-world codebases, architecture decisions, documentation, and development workflows. |
-| 🛠️ **Building Useful Tools** | Creating projects that solve practical problems and can be improved through community feedback. |
-| 🤝 **Contributing** | Learning how to collaborate through issues, pull requests, reviews, and discussions. |
-| 🌱 **Helping Beginners** | Making projects easier to understand and more approachable for people who are starting out. |
-| 🔍 **Experimenting Publicly** | Sharing experiments, prototypes, and lessons learned while building software. |
+I’m especially interested in projects that make technology more approachable—whether they help beginners make their first contribution, provide useful learning resources, or turn complex ideas int[...]
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🧩 Problem Solving & Learning</strong></summary>
+<summary><h2>🧩 Problem Solving & Learning</h2></summary>
 
-<br>
-
-I enjoy strengthening my fundamentals through problem solving, system design, machine learning experiments, and building applications from scratch. I learn best when theory is connected to something practical.
-
-| Learning Area | What It Helps Me Improve |
-|---|---|
-| 🧠 **Data Structures & Algorithms** | Logical thinking, efficiency, problem decomposition, and writing better solutions. |
-| 🏗️ **System Design** | Understanding how applications scale and how different services work together. |
-| 🤖 **Machine Learning** | Exploring models, data processing, evaluation, and intelligent application workflows. |
-| 🔌 **Backend Development** | Designing APIs, working with databases, handling authentication, and building reliable services. |
-| 🎨 **Frontend Development** | Creating accessible, responsive, and practical user experiences. |
-| 🧪 **Project-Based Learning** | Connecting theoretical concepts to real applications and meaningful experiments. |
+I enjoy strengthening my fundamentals through problem solving, system design, machine learning experiments, and building applications from scratch. I learn best when theory is connected to something p[...]
 
 <p align="center">
   <a href="https://codeforces.com/profile/Zero_Wing01">
@@ -170,21 +133,10 @@ I enjoy strengthening my fundamentals through problem solving, system design, ma
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;Full-Stack+Developer;Open-Source+Builder;Product-Oriented+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;Full-Stack+Developer;Open[...]" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ZeroElemental&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ZeroElemental&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ZeroElemental&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ZeroElemental&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ZeroElemental&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZeroElemental&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
