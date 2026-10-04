@@ -63,6 +63,11 @@ Building → Experimenting → Learning → Improving
 
 I use projects to explore the connection between **AI, software engineering, real-world problems, and thoughtful product design**.
 
+<details>
+<summary><b>Explore my projects and experiments</b></summary>
+
+<br />
+
 ### 🔬 AI & Intelligent Systems
 
 * Building AI-assisted tools for learning, productivity, finance, and interview preparation
@@ -75,17 +80,31 @@ I use projects to explore the connection between **AI, software engineering, rea
 * Working on real-time platforms, educational tools, browser extensions, dashboards, and collaborative products
 * Exploring offline-first experiences, self-hosted software, and systems that can run close to the user
 
+</details>
+
 ---
 
 ## 🌍 Open Source
+
+<details>
+<summary><b>Open Source</b></summary>
+
+<br />
 
 Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that others can use or improve.
 
 I’m especially interested in projects that make technology more approachable—whether they help beginners make their first contribution, provide useful learning resources, or turn complex ideas into practical tools. I try to contribute with code, documentation, project structure, and ideas that make a repository easier to understand and participate in.
 
+</details>
+
 ---
 
 ## 🧩 Problem Solving & Learning
+
+<details>
+<summary><b>Problem Solving & Learning</b></summary>
+
+<br />
 
 I enjoy strengthening my fundamentals through problem solving, system design, machine learning experiments, and building applications from scratch. I learn best when theory is connected to something practical, so many of my projects begin as a way to understand a concept more deeply.
 
@@ -97,6 +116,8 @@ I enjoy strengthening my fundamentals through problem solving, system design, ma
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
+</details>
 
 ---
 
