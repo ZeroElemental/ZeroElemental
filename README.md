@@ -83,9 +83,9 @@ I use projects to explore the connection between **AI, software engineering, rea
 <details>
 <summary><h2>🌍 Open Source</h2></summary>
 
-Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that other[...]
+Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that other
 
-I’m especially interested in projects that make technology more approachable—whether they help beginners make their first contribution, provide useful learning resources, or turn complex ideas int[...]
+I’m especially interested in projects that make technology more approachable—whether they help beginners make their first contribution, provide useful learning resources, or turn complex ideas int
 
 </details>
 
