@@ -5,7 +5,7 @@
 ### AI/ML Learner · Full-Stack Developer · Open-Source Builder · Product-Oriented Engineer
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+and+local+[...]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+and+local" />
 </p>
 
 </div>
@@ -133,7 +133,7 @@ I enjoy strengthening my fundamentals through problem solving, system design, ma
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Learner;Full-Stack+Developer;Open[...]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Full-Stack+Developer;Open+Source" />
 </p>
 
 # 📊 GitHub Stats:
