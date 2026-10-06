@@ -60,7 +60,7 @@ Building → Experimenting → Learning → Improving
 ---
 
 <details>
-<summary><h2>🚀 Projects & Experiments</h2></summary>
+<summary>🚀 Projects & Experiments</summary>
 
 I use projects to explore the connection between **AI, software engineering, real-world problems, and thoughtful product design**.
 
@@ -81,7 +81,7 @@ I use projects to explore the connection between **AI, software engineering, rea
 ---
 
 <details>
-<summary><h2>🌍 Open Source</h2></summary>
+<summary>🌍 Open Source</summary>
 
 Open source is a major part of how I learn and build. It gives me a chance to study how other developers solve problems, contribute to projects beyond my own experiments, and share software that other
 
@@ -92,7 +92,7 @@ I’m especially interested in projects that make technology more approachable�
 ---
 
 <details>
-<summary><h2>🧩 Problem Solving & Learning</h2></summary>
+<summary>🧩 Problem Solving & Learning</summary>
 
 I enjoy strengthening my fundamentals through problem solving, system design, machine learning experiments, and building applications from scratch. I learn best when theory is connected to something p[...]
 
