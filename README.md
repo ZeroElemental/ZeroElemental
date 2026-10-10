@@ -2,7 +2,7 @@
 
 <h1>👋 Hi, I'm <span style="color:#00A6FF;"><b>Shreyash Anand</b></span></h1>
 
-### AI/ML Learner · Full-Stack Developer · Open-Source Builder · Product-Oriented Engineer
+### AI/ML Learner · Full-Stack Developer · Open-Source Builder 
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+RAG+and+local" />
